@@ -54,6 +54,7 @@
 | :------------------------: | :---------------------: | :-------------------: | :-------------------: | :--------------------------: |
 |             x86_64                    |  [LEDE](https://github.com/coolsnowwolf/lede) |[🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/x86_64.yml) | ![x86_64](https://github.com/bigbugcc/openwrts/actions/workflows/x86_64.yml/badge.svg) |  [✔](https://github.com/bigbugcc/OpenWrts/releases) |
 | x86_64Lite | [LEDE](https://github.com/coolsnowwolf/lede) |[🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/x86_64Lite.yml) | ![x86_64Lite](https://github.com/bigbugcc/openwrts/actions/workflows/x86_64Lite.yml/badge.svg) | [✔](https://github.com/bigbugcc/OpenWrts/releases) |
+|             树莓派 2B             | [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/RaspberryPi2.yml) | ![RaspberryPi3](https://github.com/bigbugcc/openwrts/actions/workflows/RaspberryPi2.yml/badge.svg) | [✔](https://github.com/bigbugcc/OpenWrts/releases) |
 |             树莓派 3B/3B+             | [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/RaspberryPi3.yml) | ![RaspberryPi3](https://github.com/bigbugcc/openwrts/actions/workflows/RaspberryPi3.yml/badge.svg) | [✔](https://github.com/bigbugcc/OpenWrts/releases) |
 |             树莓派 4B             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/RaspberryPi4.yml) | ![RaspberryPi4](https://github.com/bigbugcc/openwrts/actions/workflows/RaspberryPi4.yml/badge.svg) |  [✔](https://github.com/bigbugcc/OpenWrts/releases) |
 |             树莓派 5             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/bigbugcc/OpenWrts/actions/workflows/RaspberryPi5.yml) | ![RaspberryPi5](https://github.com/bigbugcc/openwrts/actions/workflows/RaspberryPi5.yml/badge.svg) |  [✔](https://github.com/bigbugcc/OpenWrts/releases) |
@@ -137,6 +138,7 @@ eg:
 filetree
 ├── .github/workflows
 │  ├── Rockchip_armv8.yml
+│  ├── RaspberryPi2.yml
 │  ├── RaspberryPi3.yml
 │  ├── RaspberryPi4.yml
 │  ├── RaspberryPi5.yml
@@ -146,6 +148,7 @@ filetree
 ├── /configs/ (配置文件目录)
 │  ├── LuciApp.config (插件配置文件)
 │  ├── LuciApp_Lite.config (简洁配置文件)
+│  ├── RPi2.config
 │  ├── RPi3.config
 │  ├── RPi4.config
 │  ├── RPi5.config
