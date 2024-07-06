@@ -63,7 +63,7 @@
 |             NanoPi R5C             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/dreamskr/OpenWrts/actions/workflows/Rockchip_armv8.yml) | ![R5C](https://github.com/dreamskr/openwrts/actions/workflows/Rockchip_armv8.yml/badge.svg) | [✔](https://github.com/dreamskr/OpenWrts/releases) |
 |             NanoPi R5S             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/dreamskr/OpenWrts/actions/workflows/Rockchip_armv8.yml) | ![R5S](https://github.com/dreamskr/openwrts/actions/workflows/Rockchip_armv8.yml/badge.svg) | [✔](https://github.com/dreamskr/OpenWrts/releases) |
 |             FastRhino R68S             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/dreamskr/OpenWrts/actions/workflows/Rockchip_armv8.yml) | ![R68S](https://github.com/dreamskr/openwrts/actions/workflows/Rockchip_armv8.yml/badge.svg) | [✔](https://github.com/dreamskr/OpenWrts/releases) |
-|             Orange Pi R1 Plus             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/dreamskr/OpenWrts/actions/workflows/Rockchip_armv8.yml) | ![OrangePiR1](https://github.com/bigbugcc/openwrts/actions/workflows/Rockchip_armv8.yml/badge.svg) | [✔](https://github.com/bigbugcc/OpenWrts/releases) |
+|             Orange Pi R1 Plus             |  [LEDE](https://github.com/coolsnowwolf/lede) | [🍕](https://github.com/dreamskr/OpenWrts/actions/workflows/Rockchip_armv8.yml) | ![OrangePiR1](https://github.com/dreamskr/openwrts/actions/workflows/Rockchip_armv8.yml/badge.svg) | [✔](https://github.com/dreamskr/OpenWrts/releases) |
 
 <br>
 
