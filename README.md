@@ -177,6 +177,9 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 <br>
 
 ## 固件预览
+<details>
+<summary><b>&nbsp;ARMv8 盒子 Mini 精简版本插件预览</b></summary>
+  
 **主界面(主题一)：**
 ![主界面](./assets/images/openwrt.png)
 
@@ -194,6 +197,8 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 
 **主界面：**
 ![主界面](./assets/images/infinityfreedom-theme-main.png)
+
+</details>
 
 
 ## 版权说明
