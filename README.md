@@ -13,14 +13,10 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/dreamskr/OpenWrts">
-    <img src="./assets/images/action1.jpg" alt="Logo" width="500" />
-  </a>
+
   <h3 align="center">Openwrt/LEDE 云编译(带应用商店)</h3>
   <p align="center">
     👉 每周定时自动拉取Openwrt最新源码编译，自动发布到 [<a herf="https://github.com/dreamskr/OpenWrts/releases"> Releases </a>]👈
-    <br />
-    <a href="https://github.com/dreamskr/OpenWrts"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dreamskr/OpenWrts/releases">下载地址</a>
