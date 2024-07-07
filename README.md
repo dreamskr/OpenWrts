@@ -132,7 +132,6 @@
 <br>
 
 ## 文件目录说明
-eg:
 
 ```
 filetree
@@ -201,32 +200,13 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 </details>
 
 
-## 版权说明
+## 项目参考
+- [1.markdown折叠风格、自动编译](https://github.com/haiibo/OpenWrt)
+- [2.电视盒子自动编译](https://github.com/ophub/amlogic-s9xxx-openwrt)
+- [3.luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
+- [4.istore](https://github.com/linkease/istore)
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/dreamskr/OpenWrts/blob/main/LICENSE)
 
-
-## 项目支持
-- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
-- [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
-- [istore](https://github.com/linkease/istore)
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/bigbugcc/OpenWrts.svg)](https://starchart.cc/bigbugcc/OpenWrts)
-
-<!-- links -->
-[your-project-path]:https://github.com/bigbugcc/OpenWrts/
-[contributors-shield]: https://img.shields.io/github/contributors/bigbugcc/OpenWrts?style=flat-square
-[contributors-url]: https://github.com/bigbugcc/OpenWrts/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bigbugcc/OpenWrts?style=flat-square
-[forks-url]: https://github.com/bigbugcc/OpenWrts/network/members
-[stars-shield]: https://img.shields.io/github/stars/bigbugcc/OpenWrts?style=flat-square
-[stars-url]: https://github.com/bigbugcc/OpenWrts/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bigbugcc/OpenWrts?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/bigbugcc/OpenWrts
-[license-shield]: https://img.shields.io/github/license/bigbugcc/OpenWrts?style=flat-square
-[license-url]: https://github.com/bigbugcc/OpenWrts/blob/master/LICENSE
 
 ## 其它教程
 [![电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，](https://res.cloudinary.com/marcomontalbano/image/upload/v1692927730/video_to_markdown/images/youtube--EPNsHRj3eXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EPNsHRj3eXE "电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，")
