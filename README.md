@@ -222,3 +222,7 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 [issues-url]: https://img.shields.io/github/issues/bigbugcc/OpenWrts
 [license-shield]: https://img.shields.io/github/license/bigbugcc/OpenWrts?style=flat-square
 [license-url]: https://github.com/bigbugcc/OpenWrts/blob/master/LICENSE
+
+## 其它教程
+[![电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，](https://res.cloudinary.com/marcomontalbano/image/upload/v1692927730/video_to_markdown/images/youtube--EPNsHRj3eXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EPNsHRj3eXE "电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，")
+
