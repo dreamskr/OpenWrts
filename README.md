@@ -200,9 +200,6 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 - [2.电视盒子自动编译](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - [3.luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
 - [4.istore](https://github.com/linkease/istore)
+- [5.电视盒子固件打包教程](https://youtu.be/EPNsHRj3eXE)
 
-
-
-## 其它教程
-[![电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，](https://res.cloudinary.com/marcomontalbano/image/upload/v1692927730/video_to_markdown/images/youtube--EPNsHRj3eXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EPNsHRj3eXE "电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，")
 
