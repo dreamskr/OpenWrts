@@ -161,7 +161,8 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 2. 按需修改 ```configure.sh``` 和 ```package.sh``` 文件
 3. 上传你自己的 ```xx.config``` 配置文件到configs目录
 4. 添加或修改自己的``````xx.yml``````文件
-5. 最后根据个人喜好修改 ```update-checker.yml``` 需自行添加 ```Actions secrets``` (触发自动编译)
+5. 最后根据个人喜好修改 ```update-checker.yml``` 需自行添加 ```Actions secrets``` (触发每周自动编译)
+6. 也可在actions选择对应workflows，立刻编译固件。
 
 ### 注意事项：
 📌 修改默认系统参数 👉 ```configure.sh```   
@@ -171,7 +172,7 @@ LuciApp.conf / LuciApp_Lite.conf - 主要用于配置固件插件应用
 
 ## 固件预览
 <details>
-<summary><b>&nbsp;ARMv8 盒子 Mini 精简版本插件预览</b></summary>
+<summary><b>固件界面预览</b></summary>
   
 **主界面(主题一)：**
 ![主界面](./assets/images/openwrt.png)
